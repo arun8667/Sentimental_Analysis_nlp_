@@ -1,6 +1,6 @@
 # Sentimental_Analysis_nlp_
                 Sentiment Analysis in Natural Language Processing
-                Tamil-English codemixed sentiment analysis emerges as a crucial area of
+Tamil-English codemixed sentiment analysis emerges as a crucial area of
 research and application, particularly in digital platforms where users freely express
 themselves in a mixture of languages. By developing robust methods to analyze sentiments
 in codemixed text, we can gain deeper insights into user perceptions, preferences, and
